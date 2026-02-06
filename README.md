@@ -1,4 +1,4 @@
-# bifurcation_logistic_map
+# bifurcation_logistic_map (Cobwebbing)
 # Bifurcation Diagram of the Logistic Map (Python)
 
 This repository contains a python implementation for generating the
